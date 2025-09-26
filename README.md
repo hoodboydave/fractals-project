@@ -1,4 +1,4 @@
-# <p align="center">Fractals Project 🌿</p>
+# <h1 align="center">Fractals Project 🌿</h1>
 
 ---
 
